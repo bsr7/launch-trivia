@@ -1,4 +1,4 @@
-# trivia-app
+# launch-trivia
 
 This application is a simple trivia quiz game, built using React. It uses the Open Trivia Database API to generate a list of 10 trivia questions, each with a correct answer and multiple incorrect answers. The user has the option to generate new questions using a button.
 
